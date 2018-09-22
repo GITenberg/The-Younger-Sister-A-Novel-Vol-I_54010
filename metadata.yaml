@@ -1,0 +1,34 @@
+_repo: The-Younger-Sister-A-Novel-Vol-I_54010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubback, Mrs. (Catherine-Anne Austen)
+    aliases:
+    - Hubback, Catherine-Anne Austen
+    - Hubback, Mrs. J.
+    birthdate: 1818
+    deathdate: 1877
+    gutenberg_agent_id: '47662'
+    url: http://www.gutenberg.org/2009/agents/47662
+description: ''
+gutenberg_issued: '2017-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of clergy -- Fiction'
+- !lcsh 'Motherless families -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Sisters -- Fiction'
+- GITenberg
+title: 'The Younger Sister: A Novel, Vol. I.'
+url: http://www.gutenberg.org/ebooks/54010
